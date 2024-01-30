@@ -6,15 +6,7 @@ This lab is designed to be a very gentle introduction to git and github. As such
 - To understand the "Control Flow" of a computer program - the order in which the program executes statements and the way it jumps around
 
 The program in the file Steps.py prints outputs the following
-Step 1
-Step 2
-Step 3
-Step 4
-Step 5
-Step 6
-Step 7
-Step 8
-Step 9
+Step 1\ Step 2\ Step 3\ Step 4\ Step 5\ Step 6\ Step 7\ Step 8\ Step 9\
 
 The goal is to acheive the same output using a mix of Sequence Selection and Iteration rather than just Sequence which is used in the orginal code.
 
